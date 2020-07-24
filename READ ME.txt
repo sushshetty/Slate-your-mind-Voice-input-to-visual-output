@@ -1,0 +1,7 @@
+The Application converts voice input to visual output.
+
+recquired modules:
+nltk , google translation in python.
+processing 3.0 and quickdraw jar files.
+
+before executing, set the path of python files and input is restricted to any 10 objects present in the data set.
